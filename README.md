@@ -63,3 +63,7 @@ This helps prevent overspending or running out of budget at checkout.
 | 📱 App Mode | 🧩 Widget Mode |
 |------------|----------------|
 | ![app](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/ezgif-7e62b252d9947aa4.gif) | ![widget](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/widget-demo.gif) |
+
+## 🧠 Notes
+
+This is my first self-built project, created during my self-learning journey before starting my formal studies.
