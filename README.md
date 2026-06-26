@@ -6,8 +6,7 @@ A simple iOS automation tool built with Scriptable.
 
 ## 🎬 Demo
 
-tax-calculator-demo.gif
-
+![demo](./tax-calculator-demo.gif)
 ---
 
 ## 🚀 Features
