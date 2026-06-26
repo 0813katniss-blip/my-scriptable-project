@@ -1,3 +1,8 @@
+# TEST
+
+![demo](./tax-calculator-demo.gif)
+
+
 # 📱 Scriptable Tax Calculator
 
 A simple iOS automation tool built with Scriptable.
