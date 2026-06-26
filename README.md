@@ -26,17 +26,10 @@ This tool helps you instantly calculate the total price, so you can:
 
 ## 📸 Screenshots
 
-### 📊 Simple Calculation Mode
-Select a state and city to instantly calculate sales tax and estimate final price.
-
-![simple](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663003_0.jpg)
-
----
-
-### 🧾 Budget Total Mode
-Add multiple items and calculate the total cost including tax in real time.
-
-![total](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663004_0.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663003_0.jpg" width="250"/>
+  <img src="https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663004_0.jpg" width="250"/>
+</p>
 - 
 
 ## ✨ Features
