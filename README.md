@@ -8,7 +8,15 @@ A simple iOS automation tool built with Scriptable.
 
 ## 🎬 Demo
 
-![demo](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/ezgif-7e62b252d9947aa4.gif)
+## 🎬 Demo
+
+| 📱 App Mode | 🧩 Widget Mode |
+|------------|----------------|
+| ![app](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/app-demo.gif) | ![widget](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/widget-demo.gif) |
+
+### ✨ Two ways to use this script:
+- Open directly in the Scriptable app
+- Run from iOS Home Screen widget
 
 ## 🚀 Features
 - Calculate US sales tax instantly
