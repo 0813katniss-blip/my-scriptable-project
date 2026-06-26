@@ -1,6 +1,3 @@
-# TEST
-
-![demo](./tax-calculator-demo.gif)
 
 
 # 📱 Scriptable Tax Calculator
@@ -9,10 +6,9 @@ A simple iOS automation tool built with Scriptable.
 
 ---
 
-
 ## 🎬 Demo
 
-![demo](tax-calculator-demo.gif)
+![demo](./tax-calculator-demo.gif)
 
 ## 🚀 Features
 - Calculate US sales tax instantly
