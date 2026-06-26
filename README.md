@@ -23,12 +23,19 @@ This tool helps you instantly calculate the total price, so you can:
 - Open directly in the Scriptable app
 - Run from iOS Home Screen widget
 - 
+
 ## 📸 Screenshots
 
-### 📱 Simple Tax Calculation
+### 📊 Simple Calculation Mode
+Select a state and city to instantly calculate sales tax and estimate final price.
+
 ![simple](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663003_0.jpg)
 
-### 🧩 Budget Total / Add-up Calculation
+---
+
+### 🧾 Budget Total Mode
+Add multiple items and calculate the total cost including tax in real time.
+
 ![total](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663004_0.jpg)
 - 
 
