@@ -27,10 +27,16 @@ This tool helps you instantly calculate the total price, so you can:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663003_0.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663004_0.jpg" width="250"/>
+  <div>
+    <strong>Simple Calculation</strong><br/>
+    <img src="https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663003_0.jpg" width="250"/>
+  </div>
+
+  <div>
+    <strong>Budget Total Mode</strong><br/>
+    <img src="https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663004_0.jpg" width="250"/>
+  </div>
 </p>
-- 
 
 ## ✨ Features
 
