@@ -19,10 +19,17 @@ This tool helps you instantly calculate the total price, so you can:
 - Open directly in the Scriptable app
 - Run from iOS Home Screen widget
 
-## 🚀 Features
-- Calculate US sales tax instantly
-- Lightweight and fast
-- Works on iPhone Scriptable app
+## ✨ Features
+
+This tool has two main functions:
+
+### 1️⃣ Simple Tax Calculator
+Select a state and city, and the tool will automatically apply the correct sales tax rate.  
+It helps you quickly estimate the final price so you can plan your budget more clearly while shopping.
+
+### 2️⃣ Budget Total Calculator
+Add up multiple items while shopping. The tool will calculate the total amount including tax in real time.  
+This helps prevent overspending or running out of budget at checkout.
 
 ---
 
