@@ -7,6 +7,10 @@ A simple iOS automation tool built with Scriptable.
 ---
 ## 🎯 Why I built this
 
+
+I often found that I underestimated the final price when shopping, especially due to sales tax.
+
+This tool helps users stay within budget by showing the real total cost before checkout.
 When shopping with a limited budget, it’s easy to underestimate the final cost due to tax.
 
 This tool helps you instantly calculate the total price, so you can:
