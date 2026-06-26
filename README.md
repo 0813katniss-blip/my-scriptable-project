@@ -37,11 +37,6 @@ This helps prevent overspending or running out of budget at checkout.
 
 ---
 
-## 📲 How to Use
-1. Install Scriptable (iOS)
-2. Copy `tax-calculator.js` into Scriptable
-3. Run script or use Shortcut automation
-
 ---
 
 ## 🛠 Tech
