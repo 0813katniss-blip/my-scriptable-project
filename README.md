@@ -7,7 +7,7 @@ A simple iOS automation tool built with Scriptable.
 
 ## 🎬 Demo
 
-![demo](./tax-calculator-demo.gif)
+![demo](./tax-calculator-demo.gif?raw=true)
 
 ## 🚀 Features
 - Calculate US sales tax instantly
