@@ -12,7 +12,7 @@ A simple iOS automation tool built with Scriptable.
 
 | 📱 App Mode | 🧩 Widget Mode |
 |------------|----------------|
-| ![app][https://github.com/0813katniss-blip/my-scriptable-project/blob/main/ezgif-7e62b252d9947aa4.gif](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/ezgif-7e62b252d9947aa4.gif) | ![widget](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/widget-demo.gif) |
+| ![app]](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/ezgif-7e62b252d9947aa4.gif) | ![widget](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/widget-demo.gif) |
 
 ### ✨ Two ways to use this script:
 - Open directly in the Scriptable app
