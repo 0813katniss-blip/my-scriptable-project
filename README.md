@@ -24,10 +24,12 @@ This tool helps you instantly calculate the total price, so you can:
 - Run from iOS Home Screen widget
 - 
 ## 📸 Screenshots
-- <p align="center">
-  <img src="./images/app.png" width="250"/>
-  <img src="./images/widget.png" width="250"/>
-</p>
+
+### 📱 Simple Tax Calculation
+![simple](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663003_0.jpg)
+
+### 🧩 Budget Total / Add-up Calculation
+![total](https://raw.githubusercontent.com/0813katniss-blip/my-scriptable-project/main/S__1663004_0.jpg)
 - 
 
 ## ✨ Features
