@@ -22,7 +22,7 @@ This tool helps you instantly calculate the total price, so you can:
 ### ✨ Two ways to use this script:
 - Open directly in the Scriptable app
 - Run from iOS Home Screen widget
-- 
+  
 
 ## 📸 Screenshots
 
